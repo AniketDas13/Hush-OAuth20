@@ -1,0 +1,26 @@
+body {
+  background-color: #E8ECEF;
+}
+
+img {
+  border-radius: 100%;
+}
+
+.btn-login,
+.btn-logout,
+.btn-register,
+.btn-submit {
+  margin: 10px 10px;
+}
+
+.centered {
+  padding-top: 200px;
+  text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #222f51;
+}
