@@ -1,7 +1,7 @@
 # Hush-OAuth20
 A webapp to post secrets &amp; confessions anonymously, authenticated using OAuth 2.0.
 
-PFA relavant screenshots.
+PFA relevant screenshots.
 
 ![image](https://user-images.githubusercontent.com/37765408/230684720-a1a5c78d-baa3-43fa-b026-1649ef405bbf.png)
 
